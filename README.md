@@ -14,7 +14,7 @@ On my profile, you can explore some of my projects where I showcase my skills an
 
 * 🌍  I'm based in Kiev
 * ✉️  You can contact me at [kazna4eev.igor@gmail.com](mailto:kazna4eev.igor@gmail.com)
-* 🧠  I'm learning Python, SQL, HTML, CSS, JS, MongoDB
+* 🧠  I'm learning Python, SQL, HTML, CSS, JS, AngularJS
 * ⚡  I devote a lot of time to self-learning and exploring new aspects of programming. This field has captivated me, and I currently derive immense pleasure from what I am learning.
 
 ### Skills
