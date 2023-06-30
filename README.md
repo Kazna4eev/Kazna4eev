@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Web Developer
 --------------------
 
-I am a beginner Python developer and my journey in IT started with ITStep School, where I am currently taking courses. I have tried myself in various fields, including learning HTLM, CSS, JS, Python, and dabbling in data science, but Python development has captured my interest the most. From May 2022 to June 2023, I have been studying web development at ITStep courses, which are not yet completed, but I am currently in search of work opportunities.
+I am a beginner in the world of Python development. My interests also include HTML, CSS, and JS, which enable me to create web applications with a modern interface.
+
+My journey in the IT field began in May 2022 with courses at ITStep. During the 12-month training, we delved deep into web development, focusing on various aspects of creating web applications. This course provided me with a solid foundation in programming and development, and I continue to expand my knowledge and skills.
+
+Currently, I am independently learning AngularJS to enhance my abilities in building web applications. I am interested in utilizing modern tools and technologies to create efficient and useful programs.
+
+On my profile, you can explore some of my projects where I showcase my skills and demonstrate a creative approach to software development.
 
 * 🌍  I'm based in Kiev
 * ✉️  You can contact me at [kazna4eev.igor@gmail.com](mailto:kazna4eev.igor@gmail.com)
